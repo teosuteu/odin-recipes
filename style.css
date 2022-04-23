@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+h1 {
+    color: rgb(255, 0, 0);
+    background-color: rgb(47, 124, 37);
+    font-size: 100px;
+    text-align: center;
+    margin: -0.2cm;
+    padding: 1cm;
+}
+
+ul {
+    text-align: center;
+    font-size: 50px;
+    margin: 3cm;
+    list-style: none;
+}
+
+a {
+    color: rgb(37, 82, 31);
+    text-decoration: none;
+}
